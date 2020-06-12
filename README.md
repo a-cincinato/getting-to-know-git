@@ -1,0 +1,3 @@
+# getting-to-know-git
+Probando git por primera vez...
+Este es un proyecto de prueba con GIT.
